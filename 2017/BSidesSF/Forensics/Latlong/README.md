@@ -6,8 +6,6 @@
 >This challenge was created by our pal @arirubinstein.
 >He was not informed of the flag format, so expect this one to be look something like flag{...}
 
->[transmission](https://scoreboard.ctf.bsidessf.com/attachment/ebfe5bf449bd7723179c69816019e1ff71ada65d3a76d178599da3ac928c4206)
-
 
 The file seems to be an audio file and at first I thought it was a 56Kbps "Dial-up modem noise" (who used to connect to the Internet some years ago, will definitely remember).
 
